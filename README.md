@@ -1,1 +1,1 @@
-"# real-time-twitter-sentiment-dashboard" 
+"# real-time-twitter-sentiment-analysis-dashboard" 
